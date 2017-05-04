@@ -1,0 +1,13 @@
+canvas{
+  background-image: url("https://static1.squarespace.com/static/539f3dbde4b0514810beca18/t/5568372ae4b08539e50433e8/1432893228392/Black-Brick-Wall-Background.jpg?format=1500w");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+header{
+  text-align: center;
+  font-size: 35px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  color:#efc562;
+  text-shadow: 3px 2px black;
+}
