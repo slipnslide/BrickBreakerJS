@@ -30,7 +30,7 @@ for(i=0; i<brickColumnCount; i++){
 
 document.addEventListener('keydown', keyDownHandler, false);
 document.addEventListener('keyup', keyUpHandler, false);
-document.addEventListener('mousemove', mouseMoveHandler, false);
+document.addEventListener('touchmove', mouseMoveHandler, false);
 
 function mouseMoveHandler(event){
   var relativeX = event.clientX - canvas.offsetLeft;
